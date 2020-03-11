@@ -1,4 +1,3 @@
-<h1> Hello, World !!! </h1>
-<h2> Welcome to Edureka Online training </h2>
-<h3> CI CD Deployment using Ansible playbook</h3>
-<h4> To prove CICD using pollscm </h4>
+<h1> Hello, from Indranil !!! </h1>
+<h2> Welcome to DevOps Certification project </h2>
+<h3> Continous Integration and Deployment of application from GitHub repository all orchestrated by Jenkins using Docker container running Tomcat image.</h3>
